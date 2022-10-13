@@ -20,7 +20,7 @@
 ## 일정
 
 - 10/10: [운영체제란?](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/1.%20운영체제란.md) (예톤)
-- 10/13: 프로세스 vs 스레드 (수꿍)
+- 10/13: [프로세스 vs 스레드](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/2.%20프로세스%20vs%20스레드.md) (수꿍)
 - 10/17: 프로세스 주소 공간 (그루트)
 - 10/21: 인터럽트(Interrupt) (주디)
 
