@@ -19,14 +19,14 @@
 
 ## 일정
 
-- 10/10: [운영체제란?](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/1.%20운영체제란.md) (예톤)
-- 10/13: [프로세스 vs 스레드](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/2.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20vs%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3.md) (수꿍)
-- 10/17: [프로세스 주소 공간](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/3.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A9%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB.md) (그루트)
-- 10/21: [인터럽트(Interrupt) + 시스템 콜](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/4.%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8%EC%99%80%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md) (주디)
-- 10/24: [PCB와 Context Switching + IPC](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/5.%20PCB%E1%84%8B%E1%85%AA%20Context%20Switching%20%2B%20IPC.md) (예톤)
-- 10/31: [CPU 스케쥴링](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/6.%20CPU%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8C%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BC.md) (수꿍)
-- 11/07: [데드락 + Race Condition + 세마포어 & 뮤텍스](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/7.%20%E1%84%83%E1%85%A6%E1%84%83%E1%85%B3%E1%84%85%E1%85%A1%E1%86%A8%20%2B%20Race%20Condition%20%2B%20%E1%84%89%E1%85%A6%E1%84%86%E1%85%A1%E1%84%91%E1%85%A9%E1%84%8B%E1%85%A5%20%26%20%E1%84%86%E1%85%B2%E1%84%90%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B3.md) (그루트)
-- 11/14: [페이징 & 세그먼테이션 + 페이지 교체 알고리즘](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/8.%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98%20%2B%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) (주디)
+- 10/10: [운영체제란?](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/01.%20운영체제란.md) (예톤)
+- 10/13: [프로세스 vs 스레드](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/02.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20vs%20%E1%84%89%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3.md) (수꿍)
+- 10/17: [프로세스 주소 공간](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/03.%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%89%E1%85%A6%E1%84%89%E1%85%B3%20%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A9%20%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB.md) (그루트)
+- 10/21: [인터럽트(Interrupt) + 시스템 콜](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/04.%20%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8%EC%99%80%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C.md) (주디)
+- 10/24: [PCB와 Context Switching + IPC](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/05.%20PCB%E1%84%8B%E1%85%AA%20Context%20Switching%20%2B%20IPC.md) (예톤)
+- 10/31: [CPU 스케쥴링](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/06.%20CPU%20%E1%84%89%E1%85%B3%E1%84%8F%E1%85%A6%E1%84%8C%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BC.md) (수꿍)
+- 11/07: [데드락 + Race Condition + 세마포어 & 뮤텍스](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/07.%20%E1%84%83%E1%85%A6%E1%84%83%E1%85%B3%E1%84%85%E1%85%A1%E1%86%A8%20%2B%20Race%20Condition%20%2B%20%E1%84%89%E1%85%A6%E1%84%86%E1%85%A1%E1%84%91%E1%85%A9%E1%84%8B%E1%85%A5%20%26%20%E1%84%86%E1%85%B2%E1%84%90%E1%85%A6%E1%86%A8%E1%84%89%E1%85%B3.md) (그루트)
+- 11/14: [페이징 & 세그먼테이션 + 페이지 교체 알고리즘](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/08.%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%85%8C%EC%9D%B4%EC%85%98%20%2B%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EA%B5%90%EC%B2%B4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.md) (주디)
 - 11/22: [메모리](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/09.%20%E1%84%86%E1%85%A6%E1%84%86%E1%85%A9%E1%84%85%E1%85%B5.md) (예톤)
 - 11/28: [파일 시스템](https://github.com/Groot-94/CS_Study/blob/main/Operating%20System/10.%20File%20System.md) (수꿍)
 
